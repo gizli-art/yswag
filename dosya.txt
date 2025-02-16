@@ -1,1 +1,1 @@
-vless://b62e4526-f68a-43e6-912c-0405f8ede8ca@74.49.214.7:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=mergen.wegh.ru&fp=chrome&type=ws&sni=mergen.wegh.ru#%F0%9F%9A%80%20Marz%20%28test%29%20%5BVLESS%20-%20ws%5D
+Sshvpn
